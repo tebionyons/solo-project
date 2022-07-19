@@ -1,0 +1,122 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 0;
+    text-align: center;
+    
+   }
+img{
+    width: 400px;
+}
+.bkg-img {
+    background-image: url("images/calabar.jpg");
+    background-size: cover;
+    padding: 150px;
+    color: white;
+    
+}
+
+.cbar {
+    background: #2f4914;
+    padding: 8px 16px;
+    border-radius: 6px;
+    
+}
+
+.cbar-meals {
+    background: #476d2d;
+    padding: 8px 16px;
+    border-radius: 6px;
+   
+
+}
+.container {
+    
+    justify-content: center;
+    justify-content: space-around;
+    background-color: #efebec;
+    padding-top: 30px;
+    flex: 1;
+    flex-wrap: nowrap;
+}
+    
+#img1 {
+    width: 200px;
+    border-radius: 100px;
+}
+#img2 {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#img3 {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#top {
+   background: #efebec;
+   padding: 30px;
+   margin: 0;
+   color: #476d2d;
+   font-weight: 800;
+}
+
+.tebi-img {
+    width: 150px;
+}
+
+
+
+
+
+.tebi-img {
+    width: 150px;
+    border-radius: 5px;
+}
+
+.center {
+    font-style: italic;
+    background: #ffff;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 1px solid  #476d2d;
+    padding: 20px;
+    display: flex;
+    background: #476d2d;
+    color: #ffff;
+    border-bottom: 10px solid #2f4914;
+    width: 28%;
+    height: 150pxpx;
+    
+
+    
+}
+
+
+
+#main-content {
+    display: flex;
+    justify-content: space-around;
+    background: #efebec;
+    color: #476d2d;
+    
+}
+
+
+#text-head {
+    display: flex;
+    font-style: italic; 
+}
+.italic {
+    font-style: italic;
+}
